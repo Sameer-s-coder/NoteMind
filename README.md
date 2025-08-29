@@ -169,3 +169,13 @@ User: ‘Summarize this note: Neural networks mimic the brain.’
 • Useful in AI models
 
 This shows how system and user prompts shape the AI’s tone and structure.”
+
+Zero-Shot Prompting :
+“Now let’s look at Zero-Shot Prompting.
+This is when we ask the model to answer without giving it any examples.
+
+👉 Example:
+User: ‘Explain overfitting in machine learning.’
+➡ Output: ‘Overfitting happens when a model memorizes noise in the training data instead of learning patterns.’
+
+As you can see, even with no examples, the model gives a clear answer. This is the foundation of AI-agent interactions.”
