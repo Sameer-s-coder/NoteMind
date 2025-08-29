@@ -198,3 +198,22 @@ User: ‘Summarize underfitting.’
 ➡ Output: ‘• Too simple • Misses patterns • Poor accuracy.’
 
 One example helps the model produce more structured and accurate answers.”
+
+Multi-Shot Prompting :
+
+“Now let’s see Multi-Shot Prompting.
+This is when we provide multiple examples to guide the AI’s response.
+
+👉 Example:
+User provides:
+
+Input: ‘Linear Regression’ → Flashcard: Q: What does it do? A: Predicts continuous values.
+
+Input: ‘Logistic Regression’ → Flashcard: Q: What does it do? A: Classifies binary outcomes.
+
+Then asks: ‘Make flashcards from Gradient Descent.’
+➡ Output:
+Q: What does Gradient Descent do?
+A: Minimizes loss by iteratively updating parameters.
+
+The more examples we provide, the more consistent the answers become.”
