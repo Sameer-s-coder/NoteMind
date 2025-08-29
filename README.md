@@ -158,3 +158,14 @@ Pull requests are welcome! Please open an issue first to discuss what you’d li
 MIT License © 2025 \[Your Name]
 
 ---
+System and User Prompt :
+        👉 Example:
+
+System: ‘You are NoteMind, an AI note manager. Always answer in bullet points.’
+
+User: ‘Summarize this note: Neural networks mimic the brain.’
+➡ Output:
+• Neural networks imitate brain neurons
+• Useful in AI models
+
+This shows how system and user prompts shape the AI’s tone and structure.”
