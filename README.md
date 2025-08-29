@@ -182,3 +182,19 @@ User: ‘Explain overfitting in machine learning.’
 
 As you can see, even with no examples, the model gives a clear answer. This is the foundation of AI-agent interactions.”
 
+
+One-Shot Prompting :
+        “Next is One-Shot Prompting.
+Here, we give the AI one example before asking our question.
+
+👉 Example:
+
+Example:
+User: ‘Summarize: Decision trees split data.’
+Model: ‘• Definition • How it works • Uses’
+
+New Query:
+User: ‘Summarize underfitting.’
+➡ Output: ‘• Too simple • Misses patterns • Poor accuracy.’
+
+One example helps the model produce more structured and accurate answers.”
