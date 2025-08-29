@@ -199,6 +199,7 @@ User: ‘Summarize underfitting.’
 
 One example helps the model produce more structured and accurate answers.”
 
+
 Multi-Shot Prompting :
 
 “Now let’s see Multi-Shot Prompting.
@@ -217,3 +218,21 @@ Q: What does Gradient Descent do?
 A: Minimizes loss by iteratively updating parameters.
 
 The more examples we provide, the more consistent the answers become.”
+
+
+Chain-of-Thought Prompting :
+
+“Next is Chain-of-Thought Prompting.
+Here, we encourage the model to reason step by step before giving the answer.
+
+👉 Example:
+User: ‘Explain the bias-variance tradeoff.’
+The model first reasons internally:
+
+Bias is error from strong assumptions.
+
+Variance is error from sensitivity to data.
+
+➡ Final Output: ‘The bias-variance tradeoff is about balancing simplicity and flexibility to achieve better generalization.’
+
+This hidden reasoning makes the answer more accurate.”
