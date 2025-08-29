@@ -236,3 +236,14 @@ Variance is error from sensitivity to data.
 ➡ Final Output: ‘The bias-variance tradeoff is about balancing simplicity and flexibility to achieve better generalization.’
 
 This hidden reasoning makes the answer more accurate.”
+
+Dynamic Prompting (≈1 min)
+
+“Finally, Dynamic Prompting.
+This means building prompts dynamically using context or user inputs.
+
+👉 Example:
+If my last topic was CNNs and the user says: ‘Give me a 50-word summary of convolutional layers.’
+➡ Output: ‘Convolutional layers detect features like edges and textures in images, forming the building blocks of CNNs for vision tasks.’
+
+The AI adapts the prompt depending on the context, which is powerful for real applications like our NoteMind project.”
